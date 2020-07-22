@@ -1,2 +1,4 @@
 # hello-world
-This is just the learning stage for me
+hello everyone!
+
+I'm new to gitHub and will cope up with it soon! 
